@@ -4,7 +4,7 @@ Looking at a real dataset about cars, we shall be looking at different car brand
 
 After loading the data, looking at the descriptive statistics, we'll get to see that categorical variables don't have numerical descriptives and vice versa.
 
-When dealing with visualizations, we shall incorporate the use of matplotlib and seaborn. This libraries come with extensive features that help in communicating our data effectively. We shall be using scatterlots, heatmaps as well as PDF curves to be able to get some insight into our data.
+When dealing with visualizations, we shall incorporate the use of matplotlib and seaborn. This libraries come with extensive features that help in communicating our data effectively. We shall be using scatterplots, heatmaps as well as PDF curves to be able to get some insight into our data.
 
 The PDF curves help us in a number of ways:
 
